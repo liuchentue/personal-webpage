@@ -1,0 +1,135 @@
+
+.top-container{
+  background-color: #C1EFFF;
+  margin-top: 0;
+  padding-top: 100px;
+  padding-bottom: 0;
+  font-family: 'Uchen', serif;
+  /*height: 600px;*/
+}
+.middle-container{
+  padding: 70px;
+  background-color: #FFDBA4;
+}
+.bottom-container{
+  padding: 50px;
+  background-color: #A10035;
+
+}
+.profile{
+  margin:50px auto 100px auto;
+}
+.skills{
+  margin:100px auto 50px auto;
+}
+.contact-me{
+  margin:100px auto 50px auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.Greeting{
+  position: relative;
+  top: 40px;
+}
+.UBC{
+  text-decoration: underline;
+}
+
+
+.top-cloud{
+  position: absolute;
+  top:25%;
+  left:70%;
+  margin-top: 20px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 23%;
+  top:45%;
+}
+.mountain{
+  position: relative;
+  top:10px
+}
+.talking-image{
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+
+}
+.computer-image{
+  width: 25%;
+  margin-right:30px;
+  float:left;
+}
+
+
+.btn {
+  position: relative;
+  top:40px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3FA796;
+  text-decoration: none;
+}
+
+.footer-link{
+  color: #3D3C42;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 5% auto 0 auto;
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  color: #66BFBF
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66BFBF
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+  color: #3FA796;
+}
+a:hover{
+  color: #EAF6F6;
+}
